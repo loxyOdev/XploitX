@@ -15,8 +15,7 @@ This project is a Remote Access Tool (RAT) developed for educational purposes on
 
 
 
-🚀 Features
-===========
+## 🚀 Features
 
 
 
@@ -58,6 +57,44 @@ Required libraries: cryptography, psutil, pyinstaller
 
 
 A controlled lab environment (e.g., virtual machines)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
