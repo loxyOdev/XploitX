@@ -1,5 +1,5 @@
-**Remote Access Tool (RAT) - Educational Demo**
-
+XploitX
+===========
 
 
 
@@ -62,3 +62,8 @@ Required libraries: cryptography, psutil, pyinstaller
 
 
 A controlled lab environment (e.g., virtual machines)
+
+
+
+
+
