@@ -16,7 +16,7 @@ This project is a Remote Access Tool (RAT) developed for educational purposes on
 
 
 🚀 Features
-
+===========
 
 
 
@@ -29,15 +29,11 @@ File Transfer: Upload and download files for analysis or configuration purposes.
 
 
 
-Real-Time Monitoring: View system status, logs, or processes in real time.
+Real-Time Monitoring: View system status,screen,webcam, logs, or processes in real time.
 
 
 
 Encrypted Communication: Uses AES-256 encryption for secure data transmission.
-
-
-
-Cross-Platform Support: Compatible with Windows, Linux, and macOS.
 
 
 
