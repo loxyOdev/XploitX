@@ -1,7 +1,7 @@
 XploitX
 ===========
 
-[linupyfud](https://github.com/loxyOdev/XploitX/blob/main/Picture.png)
+![Oictured](https://github.com/loxyOdev/XploitX/blob/main/Picture.png)
 
 Empowering cybersecurity education through controlled, ethical simulations.
 
